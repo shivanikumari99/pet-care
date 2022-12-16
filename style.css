@@ -198,3 +198,12 @@ top: 5500px;
   grid-column-gap: 1px;
     margin-left: 400px;
 }
+.social{
+    position: absolute;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-column-gap: 1px;
+    margin-top: -850px;
+    margin-left: 550px;
+
+}
