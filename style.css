@@ -1,0 +1,161 @@
+nav{
+    width: 100%;
+    padding-top: 50px;
+    margin-left: 200px;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    margin: 30px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button {
+    height: 100px;
+    width: 310px;
+    border-radius: 10px;
+    border: none;
+    margin: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    position: relative;
+}
+.heading1{
+    position: absolute;
+    font-family: cursive;
+     font-size: 50px;
+     left: 300px;
+     top: 300px;
+}
+.subheading1{
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 40px;
+     left: 300px;
+     top:650px ;
+}
+.button1{
+    position: absolute;
+    left: 300PX;
+     width: 320px;
+     top: 800px;
+
+}
+
+.dogface{
+    
+    position: absolute;
+    left: 1750px;
+    top: 350px;
+    width: 190px;
+}
+.backdog{
+    position: absolute;
+    left: 1655px;
+    top: 370px;
+    width: 2000px;
+}
+.dog1{
+    position: absolute;
+    left: 1670px;
+    top: 450px;
+    width: 2000px;
+}
+.dog2{
+    position: absolute;
+    left: 1500px;
+    top: 760px;
+    width: 2000px;
+
+}
+.dog3{
+    position: absolute;
+    left: 2450px;
+    top: 300px;
+    width: 2000px;
+}
+.dog4{
+    position: absolute;
+    left: 2050px;
+    top: 1250px;
+    width: 2000px;
+}
+.heart1{
+    position: absolute;
+    left: 1730px;
+    top: 750px;
+    
+}
+.oval1{
+    position: absolute;
+    left: 1690px;
+    top: 647px;
+}
+.oval2{
+    position: absolute;
+    left: 1650px;
+    top: 750px;
+}
+.oval3{
+    position: absolute;
+    left: 1650px;
+    top: 850px;
+}
+.oval4{
+    position: absolute;
+    left: 1700px;
+    top: 965px;
+}
+.content{
+    position: absolute;
+    top: 1450px;
+    width: 100%;
+}
+.rect{
+    margin-left: -130px;
+    display: flex;
+    
+
+}
+.grooming{
+   position: absolute;
+   top: 2000px;
+   left: 270px;
+   height: 60px;
+   width: 60px;
+   
+}
+.health{
+    position: absolute;
+    top: 2000px;
+    left: 830px;
+    height: 60px;
+   width: 60px;
+}
+.daycare{
+    position: absolute;
+    top: 2000px;
+    left: 1400px;
+    height: 60px;
+   width: 60px;
+}
+.training{
+    position: absolute;
+    top: 2000px;
+    left: 1950px;
+    height: 60px;
+   width: 60px;
+}
+.hyginic{
+    position: absolute;
+    left: 2500px;
+    top: 2000px;
+    height: 60px;
+   width: 60px;
+}
