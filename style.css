@@ -159,3 +159,29 @@ button {
     height: 60px;
    width: 60px;
 }
+.blue{
+    position: relative;
+    left: 200px;
+    top: 400px;
+}
+.yellow{
+    position: relative;
+    left:1000px;
+    top: 60px;
+}
+.pink{
+    position: relative;
+    left: 1900px;
+    top: -300px;
+}
+.but{
+    margin-left: 300px;
+    margin-top: 100px;
+    color: rgb(24, 28, 31);
+}
+.man{
+position: absolute;
+margin-left: 1500px;
+top: 5500px;
+}
+
